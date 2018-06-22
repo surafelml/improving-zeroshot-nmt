@@ -1,7 +1,9 @@
 # Improving Zero-shot Translation of Low-resource Languages
 ## Abstract
 
-## Installation and Usage 
+## Installation 
+
+## Usage 
 
 ### Requirements
 
@@ -11,5 +13,11 @@
 
 ### Inference
 
+## Evaluation
+
+### Example Outputs 
+
 ## Conclusion
+
+## Licence 
 
