@@ -127,4 +127,11 @@ Compute BLEU
   journal={arXiv preprint arXiv:1811.01389},
   year={2018}
 }
+
+@article{lakew2019multilingual,
+  title={Multilingual Neural Machine Translation for Zero-Resource Languages},
+  author={Lakew, Surafel M and Federico, Marcello and Negri, Matteo and Turchi, Marco},
+  journal={arXiv preprint arXiv:1909.07342},
+  year={2019}
+}
 ```
