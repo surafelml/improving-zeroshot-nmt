@@ -15,5 +15,5 @@ pushd $DATA
   # feeding the script lang ids. https://github.com/neulab/word-embeddings-for-nmt/blob/master/ted_reader.py
   python $EXPDIR/scripts/ted_reader.py
 
-  rm -tg ./ted_data/*.tsv
+  rm -rf ./ted_data/*.tsv
 popd
